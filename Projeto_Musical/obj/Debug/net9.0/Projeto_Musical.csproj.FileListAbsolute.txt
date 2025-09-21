@@ -1,0 +1,14 @@
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\bin\Debug\net9.0\Projeto_Musical.exe
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\bin\Debug\net9.0\Projeto_Musical.deps.json
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\bin\Debug\net9.0\Projeto_Musical.runtimeconfig.json
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\bin\Debug\net9.0\Projeto_Musical.dll
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\bin\Debug\net9.0\Projeto_Musical.pdb
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\obj\Debug\net9.0\Projeto_Musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\obj\Debug\net9.0\Projeto_Musical.AssemblyInfoInputs.cache
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\obj\Debug\net9.0\Projeto_Musical.AssemblyInfo.cs
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\obj\Debug\net9.0\Projeto_Musical.csproj.CoreCompileInputs.cache
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\obj\Debug\net9.0\Projeto_Musical.dll
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\obj\Debug\net9.0\refint\Projeto_Musical.dll
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\obj\Debug\net9.0\Projeto_Musical.pdb
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\obj\Debug\net9.0\Projeto_Musical.genruntimeconfig.cache
+C:\Users\RyanTorres\Desktop\Alura_C#\Projeto_Musical\obj\Debug\net9.0\ref\Projeto_Musical.dll
