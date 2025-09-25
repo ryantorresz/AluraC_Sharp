@@ -4,7 +4,9 @@ partial class Program
 {
     static void Main(string[] args)
     {
-        CriarArquivoComWriter();   
+        EscritaBinaria();
+        LeituraBinaria();
+        Console.WriteLine("Aplicação Finalizada ...");
         Console.ReadLine();
     }
 }
